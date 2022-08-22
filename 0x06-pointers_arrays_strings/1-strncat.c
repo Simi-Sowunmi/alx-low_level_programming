@@ -20,4 +20,9 @@ char *_strncat(char *dest, char *src, int n)
 		dest[dest_len++] = src[index];
 
 	return (dest);
+<<<<<<< HEAD
 }
+=======
+
+
+>>>>>>> 88fc4b2c7389a31736fccbc09b119d5cbe48fe0c
